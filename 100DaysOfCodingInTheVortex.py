@@ -17,7 +17,7 @@ if Begin == "y":
             Answer = (int(input("It feels so exciting to put in effort for something I want, that I enjoy and can have so much fun with. Enter any number from 1 - not at all, to 10 - very much so: ")))
 
         if Answer == 10:
-            print(f"You {Name} are trully tuned in, tapped in and turned on.")
+            print(f"You {Name} are truly tuned in, tapped in and turned on.")
         else:
             if Answer <7:
                     print (f"Create a new belief by practicing a new thought {Name}")
@@ -25,3 +25,4 @@ if Begin == "y":
                 print (f"Are you resisting or following the flow {Name}? Nap, meditate and repeat until the frequency has changed.")
             else:
                 print (f"Keep riding the momentum {Name}.")
+print ("Now just GO MEDITATE and have blissful, glorious fun!")
