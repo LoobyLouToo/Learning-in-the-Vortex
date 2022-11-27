@@ -26,3 +26,5 @@ if Begin == "y":
             else:
                 print (f"Keep riding the momentum {Name}.")
 print ("Now just GO MEDITATE and have blissful, glorious fun!")
+while 1 == 1:
+    A=1
